@@ -14,4 +14,26 @@ Je vais essayer de détailler notre programme, réparti en séances de cours. No
 
 ## Programme du cours
 
-_TODO_
+### Séance 1 : présentation de node.js
+
+Réalisation d'un petit outil en ligne de commandes.
+
+**Dépôt git de référence :** [hepl-ria/meet-node](https://github.com/hepl-ria/meet-node)
+
+### Séance 2 : découverte d'express
+
+Découverte d'[express](http://expressjs.com), le framework serveur le plus populaire pour `node.js`.
+
+**Dépôt git de référence :** [hepl-ria](https://github.com/hepl-ria/meet-express)
+
+### Séance 3 : présentation du projet Cash-Cache
+
+Analyse du CDC, découverte des technos **Docker** & **MongoDB**, préparation de notre environnement de travail.
+
+### Séances 4-6 : code serveur du projet Cash-Cache
+
+**Dépôt git de référence :** *à définir*
+
+### Séances 7-X : code client du projet Cash-Cache
+
+**Dépôt git de référence :** *à définir*
