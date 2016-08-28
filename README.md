@@ -24,16 +24,22 @@ Réalisation d'un petit outil en ligne de commandes.
 
 Découverte d'[express](http://expressjs.com), le framework serveur le plus populaire pour `node.js`.
 
-**Dépôt git de référence :** [hepl-ria](https://github.com/hepl-ria/meet-express)
+**Dépôt git de référence :** [hepl-ria/meet-express](https://github.com/hepl-ria/meet-express)
 
-### Séance 3 : présentation du projet Cash-Cache
+### Séance 3 : présentation du projet Kash, introduction à ES2015 et BabelJS
 
-Analyse du CDC, découverte des technos **Docker** & **MongoDB**, préparation de notre environnement de travail.
+Analyse du CDC, découverte des technos **Docker** & **MongoDB**, préparation de notre environnement de travail. Introduction à la norme **ES2015** et présentation du compilateur **BabelJS**.
 
-### Séances 4-6 : code serveur du projet Cash-Cache
+**Dépôt git de référence :** [hepl-ria/kach-cdc](https://github.com/hepl-ria/kach-cdc)
 
-**Dépôt git de référence :** *à définir*
+### Séances 4-7 : code serveur du projet Kach
 
-### Séances 7-X : code client du projet Cash-Cache
+Réalisation d'une API REST pour le projet **Kach**.
 
-**Dépôt git de référence :** *à définir*
+**Dépôt git de référence :** [hepl-ria/kach-server](https://github.com/hepl-ria/kach-server)
+
+### Séances 8-X : code client du projet Kach
+
+Réalisation de la partie client du projet **Kach**
+
+**Dépôt git de référence :** [hepl-ria/kach-client](https://github.com/hepl-ria/kach-client)
